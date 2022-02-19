@@ -6,7 +6,7 @@ This is a tool written in python that automatically alters the json files and in
 This tool can only be used after the following requirements have been satisfied:
 
 1. npm package has to be installed. (Windows users can use **nvm** to install npm)
-2. vue cli has to be installed. (can be installed with : ''' npm install -g @vue/cli ''')
+2. vue cli has to be installed. (can be installed with : ` npm install -g @vue/cli`)
 
 # Setup
 
