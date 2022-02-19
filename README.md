@@ -21,7 +21,7 @@ This tool can only be used after the following requirements have been satisfied:
 
 # Validation
 
-You can check if you followed the steps correctly by running the following command in cmd '''npm run test:e2e'''
+You can check if you followed the steps correctly by running the following command in cmd inside the project's folder: '''npm run test:e2e'''
 When that command runs successfully, you will see cypress UI with a single feature named "featureFileTest"
 
 
