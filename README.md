@@ -32,4 +32,5 @@ If you click on it, the test should run and you should see the following:
 
 ![cypressUI-2](https://user-images.githubusercontent.com/43525406/154819219-095db26e-b006-49aa-9a0a-33674e406d8d.JPG)
 
+Now you can start a new vue project with cypress and cypress-cucumber-preprocessor without all the hassle of setting up the dependencies! it's plug and play;)
 
