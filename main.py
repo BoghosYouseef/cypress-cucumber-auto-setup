@@ -162,6 +162,8 @@ And('I will see the following information', (datatable) => {
 
 if __name__ == '__main__':
 
+    os.system("npm i cypress -D")
+    os.system("npm install --save-dev cypress-cucumber-preprocessor")
     add_cypress_cucumber_preprocessor_json_dependency()
     add_cypress_cucumber_cypressjson_dependency()
     add_vue3_cucumber_dependency_inside_index_js()
