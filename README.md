@@ -15,7 +15,7 @@ This tool can only be used after the following requirements have been satisfied:
 3. copy and paste the python file from this repository inside the folder of your project. (<b>**</b>)
 4. run the python script using the command "python main.py"
 
-(<b>*</b>) the naming constraint on vue projects is that no capital letters are allowed.
+(<b>*</b>) the naming constraint on vue projects is that no capital letters are allowed. <br>
 (<b>**</b>) The Python scipt has to be on the same directory level as the folders "tests" and "src"
 
 
