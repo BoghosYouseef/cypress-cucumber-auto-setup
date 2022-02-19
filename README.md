@@ -34,3 +34,9 @@ If you click on it, the test should run and you should see the following:
 
 Now you can start a new vue project with cypress and cypress-cucumber-preprocessor without all the hassle of setting up the dependencies! it's plug and play;)
 
+
+# References
+
+cypress-cucumber-preprocessor: https://github.com/TheBrainFamily/cypress-cucumber-preprocessor#step-definitions-creation
+npm setup: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+behaviour-driven development (BDD): https://cucumber.io/docs/bdd/
