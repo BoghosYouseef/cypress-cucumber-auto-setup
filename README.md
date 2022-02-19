@@ -37,6 +37,6 @@ Now you can start a new vue project with cypress and cypress-cucumber-preprocess
 
 # References
 
-cypress-cucumber-preprocessor: https://github.com/TheBrainFamily/cypress-cucumber-preprocessor#step-definitions-creation
-npm setup: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-behaviour-driven development (BDD): https://cucumber.io/docs/bdd/
+cypress-cucumber-preprocessor: https://github.com/TheBrainFamily/cypress-cucumber-preprocessor#step-definitions-creation <br>
+npm setup: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm <br>
+behaviour-driven development (BDD): https://cucumber.io/docs/bdd/ <br>
