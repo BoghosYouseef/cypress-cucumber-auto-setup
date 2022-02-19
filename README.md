@@ -9,16 +9,15 @@ This tool can only be used after the following requirements have been satisfied:
 2. vue cli has to be installed. (can be installed with : ''' npm install -g @vue/cli ''')
 
 # Setup
-**IMPORTANT: steps 3 & 4 have to be executed WHILE inside the directory of your newly created project!!**
 
 1. launch the command line interface on windows or linux and navigate to where you want your vue 3 project to be.
 2. write in the following command to create the vue project: ''' vue create <your project's name>''' (<b>*</b>)
-3. cypress comes already with the installation, but the version is too old, to update it, run the command ''' npm i cypress -D'''
-4. install the cypress-cucumber-prerocessor using the following command ''' npm install --save-dev cypress-cucumber-preprocessor '''
-5. copy and paste the python file from this repository inside the folder of your project.
-6. run the python script using the command "python main.py"
+3. copy and paste the python file from this repository inside the folder of your project. (<b>**</b>)
+4. run the python script using the command "python main.py"
 
 (<b>*</b>) the naming constraint on vue projects is that no capital letters are allowed.
+(<b>**</b>) The Python scipt has to be on the same directory level as the folders "tests" and "src"
+
 
 # Validation
 
