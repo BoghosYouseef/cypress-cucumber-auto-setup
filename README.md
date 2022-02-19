@@ -1,0 +1,2 @@
+# cypress-cucumber-auto-setup
+This is a tool written in python that automatically alters the json files and index.js such that a vue project created with vue CLI can use cypress and cucumber with cypress-cucumber-preprocessor without the user having to do it manually. I did this in my free time as I realized that such modifications are simple and should be automated instead of having to do it manually every time a new vue project is created.
