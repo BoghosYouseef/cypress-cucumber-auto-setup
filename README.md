@@ -11,7 +11,7 @@ This tool can only be used after the following requirements have been satisfied:
 # Setup
 
 1. launch the command line interface on windows or linux and navigate to where you want your vue 3 project to be.
-2. write in the following command to create the vue project: ` vue create <your project's name>` (<b>*</b>)
+2. write in the following command to create the vue project: ` vue create <your project's name>`  and wait for it to finish.(<b>*</b>)
 3. copy and paste the python file from this repository inside the folder of your project. (<b>**</b>)
 4. run the python script using the command "python main.py"
 
