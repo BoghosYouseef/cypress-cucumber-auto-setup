@@ -18,6 +18,7 @@ This tool can only be used after the following requirements have been satisfied:
 5. copy and paste the python file from this repository inside the folder of your project.
 6. run the python script using the command "python main.py"
 
+(<b>*</b>) the naming constraint on vue projects is that no capital letters are allowed.
 
 # Validation
 
@@ -31,6 +32,5 @@ When that command runs successfully, you will see cypress UI with a single featu
 If you click on it, the test should run and you should see the following:
 
 ![cypressUI-2](https://user-images.githubusercontent.com/43525406/154819219-095db26e-b006-49aa-9a0a-33674e406d8d.JPG)
-
 
 
